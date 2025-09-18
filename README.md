@@ -8,10 +8,10 @@ Sou estudante de Sistemas para Internet focado em front-end (HTML, CSS, JS, Reac
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📊 Estatísticas
+<!-- ### 📊 Estatísticas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianousDev&show_icons=true&theme=min-dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianousDev&layout=compact&theme=min-dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianousDev&layout=compact&theme=min-dark&count_private=true) -->
 
 ### 🐍 Contribuições
 
