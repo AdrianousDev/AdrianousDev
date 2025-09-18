@@ -10,8 +10,8 @@ Sou estudante de Sistemas para Internet focado em front-end (HTML, CSS, JS, Reac
 
 ### 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianousDev&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianousDev&layout=compact&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianousDev&show_icons=true&theme=min-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianousDev&layout=compact&theme=min-dark)
 
 ### 🐍 Contribuições
 
