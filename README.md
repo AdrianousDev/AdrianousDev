@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Bruno Adriano
 
-Sou estudante de Sistemas para Internet focado em front-end (HTML, CSS, JS, React).
+Sou estudante de Sistemas para Internet focado em desenvolvimento web!
 
 ### 🚀 Tecnologias que estudo
 
