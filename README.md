@@ -12,8 +12,6 @@ Sou estudante de Sistemas para Internet focado em desenvolvimento web!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianousDev&show_icons=true&theme=min-dark&count_private=true) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianousDev&layout=compact&theme=dracula&count_private=true)
-
 ### 🐍 Contribuições
 
 <picture>
