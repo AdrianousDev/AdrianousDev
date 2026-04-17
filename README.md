@@ -1,8 +1,14 @@
-## 👋 Olá, eu sou o Bruno Adriano
+<h1 align="center">
+  Bruno Adriano
+</h1>
 
-💻 Desenvolvedor Full Stack  
-🎓 Estudante de Sistemas para Internet  
-🚀 Focado em desenvolvimento web com TypeScript
+<p align="center">
+  <code>Full Stack Developer</code> • <code>TypeScript</code> • <code>Web</code>
+</p>
+
+<p align="center">
+  Construindo soluções simples para problemas complexos
+</p>
 
 ---
 
@@ -28,8 +34,6 @@
 </div>
 
 ---
-
-### 🐍 Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrianousDev/AdrianousDev/output/github-contribution-grid-snake-dark.svg">
