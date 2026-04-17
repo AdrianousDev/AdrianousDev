@@ -1,16 +1,42 @@
 ## 👋 Olá, eu sou o Bruno Adriano
 
-Sou estudante de Sistemas para Internet focado em desenvolvimento web!
+💻 Desenvolvedor Full Stack  
+🎓 Estudante de Sistemas para Internet  
+🚀 Focado em desenvolvimento web com TypeScript
 
-### 🚀 Tecnologias que estudo
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🧠 Tecnologias
 
-<!-- ### 📊 Estatísticas
+#### 🎨 Front-end
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianousDev&show_icons=true&theme=min-dark&count_private=true) -->
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### ⚙️ Back-end
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### 🗄️ Banco de dados
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianousDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianousDev&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
 
 ### 🐍 Contribuições
 
